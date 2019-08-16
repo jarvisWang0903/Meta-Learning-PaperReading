@@ -24,3 +24,4 @@ Notes for daily reading papers
 |7. | Reptile |On First-Order Meta-Learning Algorithms|[CoRR 2018](https://arxiv.org/abs/1803.02999) | [No]() | Meta-Learning |
 |8. | CMA |Continuous Manifold Based Adaptation for Evolving Visual Domains|[CVPR 2014](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909511) | [Matlab](https://github.com/sgxcyy/CMA-implementation) | Continuous Adaptation |
 |9. | |Online Domain Adaptation by Exploiting Labeled Features and Pro-active Learning |[CoDS-COMAD, 2018 ](https://dl.acm.org/citation.cfm?id=3152507) | [No]() | Online Adaptation |
+|10. | |Generalizing to Unseen Domains via Adversarial Data Augmentation |[NIPS 2018(camera ready)](https://arxiv.org/abs/1805.12018) | [No]() | Generalizing |

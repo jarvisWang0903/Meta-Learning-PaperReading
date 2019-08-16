@@ -22,4 +22,4 @@ Notes for daily reading papers
 |5. | Meta-Sim |Meta-Sim: Learning to Generate Synthetic Datasets|[ICCV 2019 Oral](https://arxiv.org/abs/1904.11621) | [Empty](https://nv-tlabs.github.io/meta-sim/) | Generalization |
 |6. | OMLA |Online Adaptation through Meta-Learning for Stereo Depth Estimation|[ArXiv](https://arxiv.org/abs/1904.08462) | [No]() | Generalization |
 |7. | Reptile |On First-Order Meta-Learning Algorithms|[CoRR 2018](https://arxiv.org/abs/1803.02999) | [No]() | Meta-Learning |
-|8. | Reptile |Continuous Manifold Based Adaptation for Evolving Visual Domains|[CVPR 2014](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909511) | [No]() | Continuous Adaptation |
+|8. | CMA |Continuous Manifold Based Adaptation for Evolving Visual Domains|[CVPR 2014](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909511) | [Matlab](https://github.com/sgxcyy/CMA-implementation) | Continuous Adaptation |
